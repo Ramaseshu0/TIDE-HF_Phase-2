@@ -1,0 +1,33 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+psycopg[binary]
+alembic
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+pyotp
+qrcode
+Pillow
+
+# AWS
+boto3
+
+# OCR
+pytesseract
+pdf2image
+opencv-python
+
+# DICOM
+pydicom
+
+# Utilities
+pydantic
+pydantic-settings
+email-validator
